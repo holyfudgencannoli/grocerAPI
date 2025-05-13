@@ -1,6 +1,6 @@
 import requests
 
-url = "https://numverifystefan-skliarovv1.p.rapidapi.com/getCountries"
+url = "https://numverifystefan-skliarovv1.p.rapidapi.com/validateNumber"
 
 payload = {}
 headers = {
